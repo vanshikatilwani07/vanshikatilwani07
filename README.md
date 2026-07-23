@@ -10,9 +10,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Developer;AI+%26+Machine+Learning+Enthusiast;UI%2FUX+Designer;Always+Learning+New+Things"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=vanshikatilwani07&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
 
 </div>
 
@@ -161,13 +158,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vanshikatilwani07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikatilwani07&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -211,14 +201,6 @@
 ✅ UI/UX Design & Figma – Evansh Services
 
 ✅ Smart Technology with IoT
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vanshikatilwani07&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
