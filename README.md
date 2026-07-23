@@ -1,15 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,100:00BFFF&text=Vanshika%20Tilwani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20Computer%20Engineering%20Student%20|%20Software%20Developer%20|%20AI%20Enthusiast&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F00FF,100:00C6FF&text=Vanshika%20Tilwani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# 👋 Hi, I'm Vanshika Tilwani
+<h3>Software Developer • AI & ML Enthusiast • B.Tech CE Student</h3>
 
-### 💻 B.Tech Computer Engineering Student | Software Developer | AI & ML Enthusiast
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Developer;AI+%26+Machine+Learning+Enthusiast;UI%2FUX+Designer;Always+Learning+New+Things"/>
-</p>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=650&lines=Software+Developer;AI+%26+Machine+Learning;Full+Stack+Learner;Building+Real+World+Projects"/>
 
 </div>
 
