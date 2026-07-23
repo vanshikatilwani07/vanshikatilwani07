@@ -192,16 +192,6 @@
 - 🎨 UI/UX Design
 - 🚀 Open Source
 
-# 🏆 Certifications
-
-✅ .NET Development Training – IFFCO
-
-✅ SQL & Database Management – IFFCO
-
-✅ UI/UX Design & Figma – Evansh Services
-
-✅ Smart Technology with IoT
-
 </div>
 
 ---
