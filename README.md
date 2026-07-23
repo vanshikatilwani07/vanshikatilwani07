@@ -231,18 +231,6 @@
 
 </div>
 
----
-
-# 📈 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vanshikatilwani07&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
-</div>
-
----
-
 # 💜 Thanks For Visiting
 
 <div align="center">
