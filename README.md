@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,00C6FF&height=230&section=header&text=Vanshika%20Tilwani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20AI%20&%20ML%20Enthusiast%20|%20B.Tech%20CE%20Student&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,100:00BFFF&text=Vanshika%20Tilwani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20Computer%20Engineering%20Student%20|%20Software%20Developer%20|%20AI%20Enthusiast&descAlignY=55"/>
 
-# 👋 Hi, I'm **Vanshika Tilwani**
+# 👋 Hi, I'm Vanshika Tilwani
 
 ### 💻 B.Tech Computer Engineering Student | Software Developer | AI & ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Software+Developer;AI+%26+Machine+Learning+Enthusiast;UI%2FUX+Designer;Cloud+%26+IoT+Learner;Always+Learning+New+Technologies"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Developer;AI+%26+Machine+Learning+Enthusiast;UI%2FUX+Designer;Always+Learning+New+Things"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=vanshikatilwani07&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vanshikatilwani07&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -16,118 +20,239 @@
 
 # 🚀 About Me
 
-🎓 **B.Tech Computer Engineering Student (MBIT)**
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-💻 Passionate about **Software Development**
+🎓 B.Tech Computer Engineering Student
 
-🤖 Exploring **Artificial Intelligence & Machine Learning**
+💻 Passionate about Software Development
 
-🎨 UI/UX Designer using **Figma**
+🤖 AI & Machine Learning Enthusiast
 
-🌐 Interested in **Full Stack Development**
+🎨 UI/UX Designer (Figma)
 
-☁ Learning **Cloud Computing & IoT**
+☁ Learning Cloud Computing & IoT
 
-🚀 Love building real-world projects
+🚀 Building Real World Projects
+
+🌱 Currently Learning
+
+- Full Stack Development
+- .NET
+- Machine Learning
+- Git & GitHub
 
 ---
 
 # 🛠 Tech Stack
 
-### 👨‍💻 Languages
+## 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript"/>
 </p>
 
-### 🗄 Database
+## 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver"/>
 </p>
 
-### 🤖 AI & Emerging Technologies
+## 🤖 AI / ML
 
 <p>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/OpenCV-purple?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/LLMs-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IoT-00BCD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cyber%20Security-EA4335?style=for-the-badge"/>
+
 </p>
 
-### ⚙ Tools
+## ☁ Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma"/>
+
+<img src="https://img.shields.io/badge/Cloud_Computing-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IoT-cyan?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cyber_Security-red?style=for-the-badge"/>
+
 </p>
 
+## ⚙ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma"/>
+
+</p>
+
+---# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚨 Smart Personal Safety System
+🔹 Cloud Computing, IoT & Cyber Security based solution
+
+🔹 Real-time monitoring
+
+🔹 Secure database management
+
+</td>
+
+<td width="50%">
+
+### 📄 Resume Parser
+
+🔹 Machine Learning Project
+
+🔹 Python
+
+🔹 Resume Classification
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎓 Student Management System
+
+🔹 PHP
+
+🔹 SQL Server
+
+🔹 CRUD Operations
+
+</td>
+
+<td width="50%">
+
+### 🎨 Interactive Map Design
+
+🔹 UI/UX Design
+
+🔹 Figma
+
+🔹 Wireframes & Prototype
+
+</td>
+
+</tr>
+
+</table>
+
 ---
 
-# 🔥 Featured Projects
+# 💼 Internship Experience
 
-🚨 **Smart Personal Safety System**
+💙 **.NET Development Intern** – IFFCO
 
-📄 **Resume Parser using Machine Learning**
+🗄 **SQL Intern** – IFFCO
 
-🎓 **Student Management System**
-
-🗺 **Interactive Map Design (Figma)**
+🎨 **UI/UX Design Intern** – Evansh Services
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=vanshikatilwani07&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikatilwani07&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vanshikatilwani07&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikatilwani07&theme=tokyo-night"/>
+
+</div>
 
 ---
 
 # 🎯 Current Focus
 
 - 🤖 Artificial Intelligence
-- 💙 .NET Development
 - 🌐 Full Stack Development
+- 💙 .NET Development
 - ☁ Cloud Computing
 - 🎨 UI/UX Design
-- 🚀 Open Source Contributions
+- 🚀 Open Source
+
+# 🏆 Certifications
+
+✅ .NET Development Training – IFFCO
+
+✅ SQL & Database Management – IFFCO
+
+✅ UI/UX Design & Figma – Evansh Services
+
+✅ Smart Technology with IoT
 
 ---
 
-# 🏆 Achievements
+# 🏅 GitHub Trophies
 
-🥇 Diploma in Computer Engineering
+<div align="center">
 
-💻 .NET Development Internship
+<img src="https://github-profile-trophy.vercel.app/?username=vanshikatilwani07&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
 
-🗄 SQL Internship
+</div>
 
-🎨 UI/UX Design Internship
+---
+
+# 📚 Currently Learning
+
+✔ Full Stack Development
+
+✔ Artificial Intelligence
+
+✔ Machine Learning
+
+✔ .NET Development
+
+✔ Cloud Computing
+
+✔ Open Source
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> **"Success doesn't come from what you know, it comes from what you consistently build."**
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:vanshikatilwani2007@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -137,14 +262,26 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
+# 📈 Visitor Counter
+
 <div align="center">
 
-## 💜 "Learning never stops. Every project is a step toward excellence."
+<img src="https://komarev.com/ghpvc/?username=vanshikatilwani07&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,00C6FF&height=120&section=footer"/>
+</div>
+
+---
+
+# 💜 Thanks For Visiting
+
+<div align="center">
+
+### ⭐ If you like my work, don't forget to star my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
 
 </div>
