@@ -1,43 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F00FF,100:00C6FF&text=Vanshika%20Tilwani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<h3>Software Developer • AI & ML Enthusiast • B.Tech CE Student</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=650&lines=Software+Developer;AI+%26+Machine+Learning;Full+Stack+Learner;Building+Real+World+Projects"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A11CB,100:2575FC&text=Vanshika%20Tilwani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=58"/>
 
 </div>
+## 🚀 About Me
 
----
+- 🎓 B.Tech Computer Engineering Student (MBIT)
+- 💻 Passionate about Software Development
+- 🤖 Exploring AI & Machine Learning
+- 🚀 Building practical, real-world projects
 
-# 🚀 About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-🎓 B.Tech Computer Engineering Student
-
-💻 Passionate about Software Development
-
-🤖 AI & Machine Learning Enthusiast
-
-🎨 UI/UX Designer
-
-🚀 Building Real World Projects
-
-🌱 Currently Learning
-
-- Full Stack Development
-- .NET
-  
-## 🛠 Tech Stack
+  ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,mysql,mongodb,git,github,vscode,visualstudio,figma,androidstudio"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,mysql,mongodb,git,github,vscode,visualstudio,figma"/>
+
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/OpenCV-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/YOLO-black?style=flat-square"/>
 
@@ -45,89 +28,63 @@
 
 <img src="https://img.shields.io/badge/Cloud-blue?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/IoT-cyan?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Cyber%20Security-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/IoT-00BCD4?style=flat-square"/>
 
 </p>
 
-# 💼 Internship Experience
+## 🚀 Featured Projects
 
-💙 **.NET Development Intern** – IFFCO
+### 🚨 Smart Personal Safety System
 
-🗄 **SQL Intern** – IFFCO
-
-🎨 **UI/UX Design Intern** – Evansh Services
+Cloud + IoT based safety solution.
 
 ---
 
+### 📄 Resume Parser
 
-</div>
+Machine Learning based resume classification.
 
 ---
 
-# 🔥 GitHub Streak
+### 🎓 Student Management System
 
-<div align="center">
+PHP & SQL based management system.
+
+---
+
+### 🗺 Interactive Map Design
+
+Modern UI/UX design using Figma.
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vanshikatilwani07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikatilwani07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vanshikatilwani07&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
+## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikatilwani07&theme=tokyo-night"/>
 
-</div>
+## 🧠 Current Focus
 
----
+- 🤖 Building AI-powered applications
+- 🌐 Learning Full Stack Development
+- 🚀 Exploring real-world software projects
 
-# 🎯 Current Focus
+  ## 🤝 Connect With Me
 
-- 🤖 Artificial Intelligence
-- 🌐 Full Stack Development
-- 💙 .NET Development
-- ☁ Cloud Computing
-- 🎨 UI/UX Design
-- 🚀 Open Source
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-✔ Full Stack Development
-
-✔ Artificial Intelligence
-
-✔ Machine Learning
-
-✔ .NET Development
-
-✔ Cloud Computing
-
-✔ Open Source
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-> **"Success doesn't come from what you know, it comes from what you consistently build."**
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
+<p align="center">
 
 <a href="mailto:vanshikatilwani2007@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -137,14 +94,13 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</div>
+</p>
 
-# 💜 Thanks For Visiting
+---
 
 <div align="center">
 
-### ⭐ If you like my work, don't forget to star my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
+### ⚡ Success doesn't come from what you know, it comes from what you consistently build.
+💜 Thanks For Visiting
 
 </div>
