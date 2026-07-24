@@ -82,66 +82,7 @@
 
 </p>
 
----# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚨 Smart Personal Safety System
-🔹 Cloud Computing, IoT & Cyber Security based solution
-
-🔹 Real-time monitoring
-
-🔹 Secure database management
-
-</td>
-
-<td width="50%">
-
-### 📄 Resume Parser
-
-🔹 Machine Learning Project
-
-🔹 Python
-
-🔹 Resume Classification
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🎓 Student Management System
-
-🔹 PHP
-
-🔹 SQL Server
-
-🔹 CRUD Operations
-
-</td>
-
-<td width="50%">
-
-### 🎨 Interactive Map Design
-
-🔹 UI/UX Design
-
-🔹 Figma
-
-🔹 Wireframes & Prototype
-
-</td>
-
-</tr>
-
-</table>
-
----
+------
 
 # 💼 Internship Experience
 
