@@ -29,54 +29,27 @@
 - Full Stack Development
 - .NET
   
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,mysql,mongodb,git,github,vscode,visualstudio,figma,androidstudio"/>
 </p>
 
-## 🗄 Database
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-<img src="https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver"/>
-</p>
+<img src="https://img.shields.io/badge/OpenCV-purple?style=flat-square"/>
 
-## 🤖 AI / ML
+<img src="https://img.shields.io/badge/YOLO-black?style=flat-square"/>
 
-<p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/OpenCV-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-blue?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-cyan?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/LLMs-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cyber%20Security-red?style=flat-square"/>
 
 </p>
-
-## ☁ Technologies
-
-<p>
-
-<img src="https://img.shields.io/badge/Cloud_Computing-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/IoT-cyan?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cyber_Security-red?style=for-the-badge"/>
-
-</p>
-
-## ⚙ Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma"/>
-
-</p>
-
-------
 
 # 💼 Internship Experience
 
