@@ -20,9 +20,7 @@
 
 🤖 AI & Machine Learning Enthusiast
 
-🎨 UI/UX Designer (Figma)
-
-☁ Learning Cloud Computing & IoT
+🎨 UI/UX Designer
 
 🚀 Building Real World Projects
 
@@ -30,11 +28,7 @@
 
 - Full Stack Development
 - .NET
-- Machine Learning
-- Git & GitHub
-
----
-
+  
 # 🛠 Tech Stack
 
 ## 👨‍💻 Languages
